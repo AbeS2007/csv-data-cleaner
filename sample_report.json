@@ -1,0 +1,13 @@
+{
+  "input_file": "sample_input.csv",
+  "output_file": "sample_output.csv",
+  "columns": [
+    "full_name",
+    "email_address",
+    "organization"
+  ],
+  "rows_written": 3,
+  "blank_rows_removed": 1,
+  "duplicate_rows_removed": 1,
+  "rows_padded_or_trimmed": 1
+}
